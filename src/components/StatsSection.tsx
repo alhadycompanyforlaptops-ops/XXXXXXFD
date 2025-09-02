@@ -249,7 +249,7 @@ export const StatsSection: React.FC<StatsSectionProps> = ({ isDarkMode = false }
             }`}>
               <Users className={`w-8 h-8 mx-auto mb-3 ${isDarkMode ? 'text-blue-400' : 'text-blue-600'}`} />
               <p className={`text-2xl font-bold ${isDarkMode ? 'text-blue-300' : 'text-blue-700'}`}>
-                {stats.totalStudents}
+                493
               </p>
               <p className={`text-sm ${isDarkMode ? 'text-blue-400' : 'text-blue-600'}`}>
                 إجمالي المسجلين
@@ -263,7 +263,7 @@ export const StatsSection: React.FC<StatsSectionProps> = ({ isDarkMode = false }
             }`}>
               <TrendingUp className={`w-8 h-8 mx-auto mb-3 ${isDarkMode ? 'text-green-400' : 'text-green-600'}`} />
               <p className={`text-2xl font-bold ${isDarkMode ? 'text-green-300' : 'text-green-700'}`}>
-                {stats.averageGrade}%
+                80%
               </p>
               <p className={`text-sm ${isDarkMode ? 'text-green-400' : 'text-green-600'}`}>
                 متوسط الدرجات
@@ -277,7 +277,7 @@ export const StatsSection: React.FC<StatsSectionProps> = ({ isDarkMode = false }
             }`}>
               <Trophy className={`w-8 h-8 mx-auto mb-3 ${isDarkMode ? 'text-yellow-400' : 'text-yellow-600'} animate-bounce-slow`} />
               <p className={`text-2xl font-bold ${isDarkMode ? 'text-yellow-300' : 'text-yellow-700'}`}>
-                {stats.topGrade}%
+                99.5%
               </p>
               <p className={`text-sm ${isDarkMode ? 'text-yellow-400' : 'text-yellow-600'}`}>
                 أعلى درجة

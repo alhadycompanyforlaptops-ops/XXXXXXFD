@@ -375,7 +375,6 @@ export default function SearchSection({ onSearch, isDarkMode = false }: SearchSe
                 <li>• يمكن البحث بجزء من الاسم (مثل: أحمد محمد)</li>
                 <li>• البحث يتجاهل الهمزات والمسافات الزائدة</li>
                 <li>• جرب أسماء مثل: أحمد محمد، فاطمة إبراهيم، عمر حسن</li>
-              </ul>
             </div>
           </div>
         </div>

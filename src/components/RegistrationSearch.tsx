@@ -427,7 +427,6 @@ export const RegistrationSearch: React.FC<RegistrationSearchProps> = ({ isDarkMo
                 <li>• اكتب الاسم الأول والثاني على الأقل</li>
                 <li>• يمكن البحث بجزء من الاسم (مثل: أحمد محمد)</li>
                 <li>• البحث يتجاهل الهمزات والمسافات الزائدة</li>
-                <li>• جرب أسماء مثل: أحمد محمد، فاطمة إبراهيم، عمر حسن</li>
               </ul>
             </div>
 
